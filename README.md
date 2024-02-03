@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davin Monteiro</h1>
-<h3 align="center">A bit about Myself, I am Davin pursuing my Computer Science Degree with Cyber Security from M S Ramaiah Institute of Technology, Currently in my second-year of B.Tech. As of now, I am focused on web development (MERN Stack), Artificial intelligence and Machine Learning but still, wish to explore many fields. ⚡</h3>
+<h3 align="center">A bit about Myself, I am Davin pursuing my Computer Science Degree with Cyber Security from M S Ramaiah Institute of Technology, Currently in my second-year of B.Tech. As of now, I am focused on web development (MERN Stack), Artificial intelligence and Machine Learning but still, wish to explore many fields.⚡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davinasd&label=Profile%20views&color=0e75b6&style=flat" alt="davinasd" /> </p>
 
